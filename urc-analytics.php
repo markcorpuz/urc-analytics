@@ -57,6 +57,6 @@ function setup_header_footer_scripts_function() {
 	$amazon_market_place = '<div id="amzn-assoc-ad-b0a592c1-6f67-436c-a82b-52492a2da902"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b0a592c1-6f67-436c-a82b-52492a2da902"></script>';
 
 
-	return $google_analytics.$google_tag_manager.$twitter_tag_code.$amazon_market_place;
+	echo $google_analytics.$google_tag_manager.$twitter_tag_code.$amazon_market_place;
 
 }
