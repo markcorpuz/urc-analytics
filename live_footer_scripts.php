@@ -1,14 +1,3 @@
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-90942410-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQFDBGR"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -24,5 +13,3 @@ twq('init','nzg7t');
 twq('track','PageView');
 </script>
 <!-- End Twitter universal website tag code -->
-
-<div id="amzn-assoc-ad-b0a592c1-6f67-436c-a82b-52492a2da902"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b0a592c1-6f67-436c-a82b-52492a2da902"></script>
