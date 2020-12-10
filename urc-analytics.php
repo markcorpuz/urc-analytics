@@ -2,7 +2,7 @@
 /**
  * Plugin Name: URC Analytics
  * Description: Contains Google Analytics, Google Tag Manager, Twitter Tag Code and Amazon Market Place
- * Version: 4.0
+ * Version: 4.0.1
  * Author: Jake Almeda
  * Author URI: http://smarterwebpackages.com/
  * Network: true
